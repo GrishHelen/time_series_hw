@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scipy
+statsmodels>=0.15,<0.16
+PyWavelets
+openpyxl
+ucimlrepo
+Jinja2
